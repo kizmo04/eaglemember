@@ -5,6 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>회원 가입</title>
+
+<link href="../css/style.css" type="text/css" rel="stylesheet" />
 </head>
 <body>
 <h1>회원가입 페이지</h1>
